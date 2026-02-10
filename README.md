@@ -1,5 +1,5 @@
 # Hi, I'm Viola Ngige! 👋 🇰🇪
-
+![Viola the Cloud Engineer](./caricature.png)
 
 ### ☁️ Cloud Support Engineer | AWS Certified | DevOps Enthusiast
 
