@@ -1,6 +1,6 @@
 # Hi, I'm Viola Ngige! 👋 🇰🇪
 
-![Viola the Cloud Engineer](./caricature.png)
+
 ### ☁️ Cloud Support Engineer | AWS Certified | DevOps Enthusiast
 
 I am a Computer Science graduate and **AWS Certified Cloud Practitioner** passionate about building reliable, scalable, and secure infrastructure. My journey began with hands-on technical support at **KPLC**, and I am now deep-diving into Cloud Architecture and DevOps automation.
