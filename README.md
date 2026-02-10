@@ -24,7 +24,7 @@ I am a Computer Science graduate and **AWS Certified Cloud Practitioner** passio
 ---
 
 ## 📊 My Stats:
-![Viola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Violangige02&show_icons=true&theme=radical)
+![Viola's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Violangige02&show_icons=true&theme=radical)
 ---
 
 ## 📫 Let's Connect:
